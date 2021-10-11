@@ -1,2 +1,4 @@
-# github-database
-A cheeky way to use a github repo as a database backend. Low performance Guarenteed!
+#  Github Database
+## A cheeky way of making a database from a github repo. Low performance guaranteed!
+
+handy if you need to publish a database to the world.
